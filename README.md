@@ -5,6 +5,12 @@ proyecto de clase para la Unidad 1 de la asignatura de Aplicaciones Web Orientad
 ### Descripcion 
 Previo a iniciar el desarrollo de software para web usando el framework de NodeJS, realizaremos un par de paracticas de repaso en Jva Script puso, con el objetivo de confirmar los conocimientos basicos de la logica de programacion.
 
+### Historial de practicas
+
+|No.| Descripcion| Estado
+|---|---|---|
+|1.| Metodologia de Evaluacion| Finalizacion |
+|2.| Inicializacion del Proyecto Fundamentos de JS| Activa|
 
 ### Autor 
 Abril Guzman Brrera
