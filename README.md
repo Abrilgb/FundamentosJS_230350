@@ -7,10 +7,11 @@ Previo a iniciar el desarrollo de software para web usando el framework de NodeJ
 
 ### Historial de practicas
 
-|No.| Descripcion| Estado
+|No.| Descripcion| Potenciador| Estado |
 |---|---|---|
-|1.| Metodologia de Evaluacion| Finalizacion |
-|2.| Inicializacion del Proyecto Fundamentos de JS| Activa|
+|1.| Metodologia de Evaluacion| 1|Finalizacion |
+|2.| Inicializacion del Proyecto Fundamentos de JS|8|Finalizada|
+|3.| Ejercicio 01 : Declaracion de variables en JS|| Activa |
 
 ### Autor 
 Abril Guzman Brrera
