@@ -1,5 +1,5 @@
 # FundamentosJS_230350
-proyecto de clase para la Unidad 1 de la asignatura de Aplicaciones Web Orientada a Servicios (AWOS)
+Proyecto de clase para la Unidad 1 de la asignatura de Aplicaciones Web Orientada a Servicios (AWOS)
 
 
 ### Descripcion 
@@ -13,7 +13,7 @@ Previo a iniciar el desarrollo de software para web usando el framework de NodeJ
 |2.| Inicializacion del Proyecto Fundamentos de JS| Activa|
 
 ### Autor 
-Abril Guzman Brrera
+Abril Guzmán Barrera
 Unidad 1
 Aplicaciones Web Orientada a Servicios.
 septiembre 2024 
